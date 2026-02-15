@@ -1,0 +1,8 @@
+{
+  "name": "NITJ Hostel & Mess Hub",
+  "description": "A comprehensive automation portal for NITJ students and staff to manage maintenance, mess feedback, occupancy, and guest meals with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
